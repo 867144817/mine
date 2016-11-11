@@ -1,0 +1,38 @@
+/*公共*/
+i{
+    display: inline-block;
+}
+.l{
+    float: left;
+}
+.r{
+    float: right;
+}
+.middle{
+    width: 1030px;
+    margin: 0 auto;
+}
+.width{
+    width: 1300px;
+    margin: 0 auto;
+}
+.one{
+    font-size: 36px;
+    font-weight: 600;
+}
+/*公共*/
+
+
+/*头部*/
+.head i{
+    width: 40px;
+    height: 37px;
+    background-image: url(../img/tu.png);
+    background-position: -353px 0;
+}
+li{
+    line-height: 84px;
+}
+
+
+
